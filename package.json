@@ -23,6 +23,7 @@
     "eslint-loader": "^3.0.3",
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-react": "^7.17.0",
+    "stripe": "^7.14.0",
     "uuid": "^3.3.3"
   }
 }
